@@ -1,0 +1,12 @@
+{
+  "name"         : "node-simple-api",
+  "version"      : "0.0.1",
+  "description"  : "Simple dev api.",
+  "main"         : "api.js",
+  "author"       : "PRO107",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
